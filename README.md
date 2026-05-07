@@ -17,9 +17,16 @@ Sou um desenvolvedor em constante evolução, focado em criar soluções eficien
 
 ## 📊 Minhas Estatísticas
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucio-h&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucio-h&layout=compact&langs_count=7&theme=tokyonight"/>
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=lucio-h&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" 
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucio-h&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=86400" 
+  />
 </p>
 
 ---
